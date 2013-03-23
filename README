@@ -1,0 +1,8 @@
+IImplementing linux grep command using python.
+
+HOW TO EXECUTE:
+
+
+you have to create text.txt file in your path of exucution, and then search for a string in that file.
+
+If you want to execute another file then simply change the file name in program last line.
